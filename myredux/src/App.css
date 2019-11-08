@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.action-area{
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.classes.card{
+  margin: auto;
+  margin-bottom: 20px;
+}
+.my-div{
+  margin: auto;
+  margin-bottom: 20px;
+}
+but-center{
+  margin: auto;
+  align-items: center;
+}
